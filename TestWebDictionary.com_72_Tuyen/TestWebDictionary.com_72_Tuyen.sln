@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "72_Tuyen_N1_TestWebDictionary.com", "TestWebDictionary.com_72_Tuyen\72_Tuyen_N1_TestWebDictionary.com.csproj", "{F5F06ED3-E38D-4487-9C4A-E90BC4880049}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_72_Tuyen", "Test_72_Tuyen\Test_72_Tuyen.csproj", "{4F8E2457-A31F-498E-8E76-3061CAB00103}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5F06ED3-E38D-4487-9C4A-E90BC4880049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5F06ED3-E38D-4487-9C4A-E90BC4880049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5F06ED3-E38D-4487-9C4A-E90BC4880049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5F06ED3-E38D-4487-9C4A-E90BC4880049}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F8E2457-A31F-498E-8E76-3061CAB00103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F8E2457-A31F-498E-8E76-3061CAB00103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F8E2457-A31F-498E-8E76-3061CAB00103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F8E2457-A31F-498E-8E76-3061CAB00103}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14DE1457-2875-408F-9B95-099775C911C6}
+	EndGlobalSection
+EndGlobal
