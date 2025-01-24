@@ -1,3 +1,5 @@
+# web-dictionary-testing
+Automated testing for Dictionary.com using Selenium WebDriver, including Login and Search functionalities.
 # Kiểm thử tự động cho Dictionary.com
 ## Mô tả
 Kho lưu trữ này chứa các kịch bản kiểm thử tự động cho trang web Dictionary.com sử dụng Selenium WebDriver. Dự án bao gồm kiểm thử chức năng của các tính năng Đăng nhập và Tìm kiếm để đảm bảo tính chính xác và độ tin cậy.
@@ -42,10 +44,5 @@ Kho lưu trữ này chứa các kịch bản kiểm thử tự động cho trang
 2. Điều hướng đến Test Explorer.
 3. Chạy các trường hợp kiểm thử mong muốn hoặc tất cả các kiểm thử.
 
-## Tác giả
-- **Tên**: Nguyễn Huỳnh Ngọc Tuyền
-- **Mã sinh viên**: 2151050515
-- **Lớp**: DH21IT2101
-- **Trường**: Đại học Mở Thành phố Hồ Chí Minh
 
 
