@@ -1,8 +1,6 @@
-# web-dictionary-testing
-Automated testing for Dictionary.com using Selenium WebDriver, including Login and Search functionalities.
 # Kiểm thử tự động cho Dictionary.com
 ## Mô tả
-Kho lưu trữ này chứa các kịch bản kiểm thử tự động cho trang web Dictionary.com sử dụng Selenium WebDriver. Dự án bao gồm kiểm thử chức năng của các tính năng Đăng nhập và Tìm kiếm để đảm bảo tính chính xác và độ tin cậy.
+Dự án bao gồm kiểm thử chức năng của các tính năng Đăng nhập và Tìm kiếm để đảm bảo tính chính xác và độ tin cậy.
 
 ## Tính năng
 - **Kiểm thử Chức năng Đăng nhập**:
